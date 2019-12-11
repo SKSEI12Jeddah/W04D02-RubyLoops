@@ -1,6 +1,5 @@
-## Labs
-### Practice Each (15 minutes)
-
+#Labs
+# Practice Each (15 minutes)
 # Use `each` to do the following...
     
 # Say hello to everybody in the below array of names (sample output: `Hello Donald!`).
@@ -40,8 +39,6 @@
        toppings.each {|topping| puts flavor +" " + topping}
        end 
        
-
-
 
 
 ### Practice Map (15 minutes)
